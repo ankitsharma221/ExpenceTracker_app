@@ -1,16 +1,12 @@
-# expense_tracker
+## Expense_Tracker
 
-A new Flutter project.
+## Video Link :
+    https://www.linkedin.com/posts/ankit-sharma-maa_expensetracker-flutterapp-financialmanagement-activity-7073403925718056960-KoY7?utm_source=share&utm_medium=member_desktop
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73eeed23-38b9-42d1-81c1-a4c5a77210f9" alt="Screenshot 1" width="150"/>
+  <img src="https://github.com/user-attachments/assets/3901ba79-afc0-4f2f-95c8-ebeb36f6f393" alt="Screenshot 2" width="150"/>
+  <img src="https://github.com/user-attachments/assets/ac2a10a8-a4c6-4635-8ddd-9f2f09206a96" alt="Screenshot 3" width="150"/>
+</p>
